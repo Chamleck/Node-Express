@@ -1,0 +1,22 @@
+{
+    "articles": [
+        {
+            "slug": "hi-oepp5b",
+            "title": "hi",
+            "description": "hi",
+            "body": "Hi",
+            "createdAt": "2022-11-03T17:35:25.421Z",
+            "updatedAt": "2022-11-03T17:35:25.421Z",
+            "tagList": [],
+            "favorited": false,
+            "favoritesCount": 0,
+            "author": {
+                "username": "chamleck",
+                "bio": null,
+                "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+                "following": false
+            }
+        }
+    ],
+    "articlesCount": 1
+}
